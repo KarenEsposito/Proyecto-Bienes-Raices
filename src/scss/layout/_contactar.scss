@@ -1,0 +1,24 @@
+
+.imagen-contacto{
+    background-image: url(/src/img/encuentra.jpg);
+    align-items: center;
+    background-position: 50%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 10rem 0;
+
+
+    h2{
+        font-size: 4rem;
+        font-weight: $black;
+        color: $blanco;
+    }
+    p{
+        font-size: 1.8rem;
+        color: $blanco;
+
+    }
+
+}
+
